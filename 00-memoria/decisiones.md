@@ -9,4 +9,5 @@
 | 2026-09-28 | Anticipo del 30 % en grupos; 70 % en el restaurante por TPV | 03-zoco-convertir.pdf |
 | 2026-09-28 | ZOCO HABIBIS: invitar a clientes de más de 35 €/persona con Polaroid + sello de lacre; eventos 48 h antes que en redes | 04-zoco-fidelizar.pdf |
 | 2026-09-28 | Objetivo interno de reseñas 4,78; Habibifest al lograrlo; responder reseñas en 48 h (propuesta) | 04-zoco-fidelizar.pdf |
-| 2026-10-01 | Se crea este repositorio como base de conocimiento de Umami sobre Zoco | Agencia Umami |
+| 2026-10-01 | Se crea la base de conocimiento de Umami sobre Zoco | Agencia Umami |
+| 2026-10-02 | Repositorio oficial: `agenciaumamimarketing/zoco_sevilla` | Agencia Umami |

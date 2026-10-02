@@ -14,3 +14,4 @@ Lo que hay que saber de Zoco para trabajar sin volver a preguntar.
 | [decisiones.md](decisiones.md) | Registro de decisiones con fecha |
 | [pendientes.md](pendientes.md) | Datos que faltan y preguntas abiertas |
 | [glosario.md](glosario.md) | Nombres propios y términos internos |
+| [fuentes.md](fuentes.md) | Qué contexto aportó Umami, cuándo y dónde está |
